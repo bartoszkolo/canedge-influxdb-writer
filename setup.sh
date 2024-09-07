@@ -35,7 +35,7 @@ sudo systemctl enable grafana-server
 echo "Installing CANedge InfluxDB Writer..."
 
 # Clone the CANedge InfluxDB Writer repository
-git clone https://github.com/CSS-Electronics/canedge-influxdb-writer.git
+git clone https://github.com/bartoszkolo/canedge-influxdb-writer.git
 
 # Change to the project directory
 cd canedge-influxdb-writer
